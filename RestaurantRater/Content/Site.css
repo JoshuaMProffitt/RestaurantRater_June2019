@@ -1,8 +1,18 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background-image: url("https://cdn.pixabay.com/photo/2017/05/18/21/54/tower-bridge-2324875_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
+.jumbotron {
+    background-color: rgba(0, 255, 255, 0.5);
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.4);
+}
 /* Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 15px;
